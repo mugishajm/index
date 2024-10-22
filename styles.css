@@ -1,0 +1,11 @@
+.th1{
+    border: 2px solid color black;
+    font-size: large;
+}
+.td1{
+    border: 2px solid color black;
+    background-color: yellowgreen;
+}
+.pit{
+    background-color: gray;
+}
